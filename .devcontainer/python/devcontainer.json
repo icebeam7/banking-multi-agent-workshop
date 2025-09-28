@@ -1,6 +1,6 @@
 {
   "name": "Python Development Container",
-  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12-bullseye",
   "features": {
     "ghcr.io/devcontainers/features/azure-cli:1": {
       "version": "latest",
